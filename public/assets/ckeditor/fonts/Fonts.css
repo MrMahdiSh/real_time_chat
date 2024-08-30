@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Vazir";
+    src: local("Vazir"), url("Vazir/Vazir.woff") format("truetype"); /*non-IE*/
+}
+
+@font-face {
+    font-family: "Divani";
+    src: local("Divani"), url("Divani/Far_Diwani_3d_Shadow.ttf") format("truetype"); /*non-IE*/
+}
+
+@font-face {
+    font-family: "Mj_Ghalam";
+    src: local("Mj_Ghalam"), url("Mj_Ghalam/Mj_Ghalam-2_0.TTF") format("truetype"); /*non-IE*/
+}
+@font-face {
+    font-family: "FR_Tabula_Eleven";
+    src: local("FR_Tabula_Eleven"), url("FR_Tabula_Eleven/FR_Tabula_Eleven.woff") format("truetype"); /*non-IE*/
+}
